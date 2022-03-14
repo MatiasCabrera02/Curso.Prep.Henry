@@ -10,4 +10,6 @@ for:
 	(OR) es otro operador lógico que se escribe con los símbolos ||. Lo que hace es tomar entre al menos dos condiciones y devolverá true si se cumple al menos una de las condiciones, si ambas son iguales y no se cumplen devolverá false.
 
 !:
-	(NOT) se escribe ! y devolverá el valor booleano opuesto al que le pasamos.
+	(NOT) se escribe ! y devolverá el valor booleano opuesto al que le pasamos. 
+
+-1
