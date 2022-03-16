@@ -1,0 +1,15 @@
+Explicación de los siguientes conceptos: "for" - "&&" - "||" - "!".
+
+for:
+	El bucle for es similar al if. sirve para hacer tareas repetitivas como por ejemplo contar desde el 1 al 10.000 ya que es más fácil declarar su función que tener que escribir manualmente todos esos números. Se declara con el for, luego entre paréntesis, primero se declara una variable con su valor asignado, seguido de ; se separan las instancias (son 3), en la segunda se escribe la expresión condicional y, en la tercera instancia se escribe el incremento de la variable.
+
+&&:
+	(AND) es un operador lógico que se escribe con los símbolos &&. Lo que hace es tomar entre al menos dos condiciones y, de ser TRUE ambas, devolverá true, de ser false al menos una de ellas, devolverá false, es decir que deben ser iguales para que devuelva true.
+
+||:
+	(OR) es otro operador lógico que se escribe con los símbolos ||. Lo que hace es tomar entre al menos dos condiciones y devolverá true si se cumple al menos una de las condiciones, si ambas son iguales y no se cumplen devolverá false.
+
+!:
+	(NOT) se escribe ! y devolverá el valor booleano opuesto al que le pasamos. 
+
+-1
